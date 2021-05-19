@@ -6,6 +6,7 @@
 				<content>
 					<Button text="Submit"></Button>
 					<Button text="Submit2"></Button>
+					<Button text="Submit3"></Button>
 				</content>
 			</Page>
 		</pages>
